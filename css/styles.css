@@ -10868,7 +10868,7 @@ video.bg-video {
 
 @media (pointer: coarse) and (hover: none) {
   body {
-    background: url("../assets/img/bg-mobile-fallback.jpg") #2a5555 no-repeat center center scroll;
+    background: url("../assets/img/bg-mobile-fallback.jpg") #007bc1 no-repeat center center scroll;
     background-size: cover;
   }
   body video {
@@ -10895,7 +10895,7 @@ video.bg-video {
   
   
   /* Frontpage Edit Lefstide angle to right */
-  background-color: rgba(1, 68, 113, 0.9);
+  background-color: #007bc1;
 }
 .masthead .masthead-content {
   position: relative;
